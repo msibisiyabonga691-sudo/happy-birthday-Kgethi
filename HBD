@@ -6,7 +6,7 @@
     <title>Happy Birthday Kgethi!</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@400;700&display=swap');
-        
+         
         * {
             margin: 0;
             padding: 0;
